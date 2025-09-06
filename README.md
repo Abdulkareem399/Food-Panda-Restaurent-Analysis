@@ -16,3 +16,4 @@ This project involves data analysis of Food Panda's operations. The main goal is
 - Visual representation of trends using graphs  
 - Insights into customer behavior and order patterns  
 
+[Download Dataset]([https://drive.google.com/your-file-link](https://www.kaggle.com/datasets/hashiromer/all-foodpanda-restaurants/data))
